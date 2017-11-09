@@ -1,3 +1,4 @@
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
+smart_news_front_site:
+    resource: "@SmartNewsFrontSiteBundle/Controller/"
+    type:     annotation
+    prefix:   /
